@@ -24,25 +24,6 @@ An advanced, end-to-end AI application built with **Python**, **LangChain**, and
 
 ---
 
-## ⚙️ Setup & Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-    cd YOUR_REPO_NAME
-    ```
-
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Run the app:**
-    ```bash
-    streamlit run app.py
-    ```
-
----
 
 ## 💡 How It Works (RAG Workflow)
 The application follows the **Retrieval-Augmented Generation** architecture:
